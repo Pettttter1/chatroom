@@ -1,0 +1,14 @@
+{
+        "files.associations": {
+                "stdint.h": "c",
+                "array": "c",
+                "string_view": "c",
+                "initializer_list": "c",
+                "utility": "c",
+                "malloc.h": "c",
+                "unistd.h": "c",
+                "util.h": "c",
+                "stdlib.h": "c",
+                "log.h": "c"
+        }
+}
